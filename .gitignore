@@ -1,0 +1,5 @@
+.env
+go--project
+go.mod/
+go.sum/
+vendor/
